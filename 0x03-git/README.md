@@ -15,3 +15,7 @@
 	4. Updated the file bash/alx by replacing echo "ALX" with echo "ALX School is so cool!".
 	
 	5. Deleted the directory js.
+	
+## Updated my alx-zero_day repository from GitHub.com
+
+	1. Updated the README.md file in the main branch from GitHub.com.
