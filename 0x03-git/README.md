@@ -12,3 +12,4 @@
 	2. Created a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 
 	3. Created a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+	4. 
