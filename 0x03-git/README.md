@@ -12,6 +12,7 @@
 	2. Created a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 
 	3. Created a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+<<<<<<< HEAD
 	4. Updated the file bash/alx by replacing echo "ALX" with echo "ALX School is so cool!".
 	
 	5. Deleted the directory js.
@@ -19,3 +20,11 @@
 ## Updated my alx-zero_day repository from GitHub.com
 
 	1. Updated the README.md file in the main branch from GitHub.com.
+=======
+
+## created a branch update_script in the alx-zero_day repo.
+
+	1. Created an empty named bash/98.
+	2. update bash/al by replacing echo "ALX" with echo "The school is open!
+" 
+>>>>>>> update_script
