@@ -2,7 +2,7 @@
 
 ## Created this directory (0x03-git ).
 
-## Created these sub-directories : bash, c, js inside the 0x03-igit directory
+## Created these sub-directories : bash, c, js inside the 0x03-git directory
 	
 	1. Create these empty files:
 		. c/c_is_fun.c
